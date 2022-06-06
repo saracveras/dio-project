@@ -1,0 +1,12 @@
+ls: lista as pastas
+mkdir: cria pasta nova
+git init: inicializar
+ls -a: mostra arquivos ocultos
+git config --global: configura
+git commit -m "mensagem"
+echo: cria arquivo
+git remote add origin + link do repositorio: linka
+o repositorio local com o repositorio remoto
+git push origin master: envia o codigo do repositorio local para o remoto
+git pull origin master: puxa o codigo do repositorio remoto para o local
+git clone + link: clona diretamente do github
